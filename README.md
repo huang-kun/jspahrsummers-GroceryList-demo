@@ -1,1 +1,1 @@
-~# jspahrsummers-GroceryList-demo~
+# jspahrsummers-GroceryList-demo
